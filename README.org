@@ -10,3 +10,7 @@
     + DFAM
     + SUBHARMONICON
       
+      #+BEGIN_SRC python
+	def test_code(a,b):
+	    return a + b
+      #+END_SRC
