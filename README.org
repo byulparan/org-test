@@ -1,12 +1,12 @@
 * Test Documents
 
-** Header
-   DRUMMER FROM ANOTHER MOTHER
+*** Header
+    DRUMMER FROM ANOTHER MOTHER
    
-** Contents
-   what's this?
+*** Contents
+    what's this?
    
-   + MOTHER32
-   + DFAM
-   + SUBHARMONICON
+    + MOTHER32
+    + DFAM
+    + SUBHARMONICON
       
