@@ -6,7 +6,7 @@
 ** Contents
    what's this?
    
-   1) MOTHER32
-   2) DFAM
-   3) SUBHARMONICON
+   + MOTHER32
+   + DFAM
+   + SUBHARMONICON
       
